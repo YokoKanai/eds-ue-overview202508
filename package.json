@@ -1,5 +1,5 @@
 {
-    "name": "@adobe/aem-boilerplate",
+    "name": "@adobe/aEDS-doc-2025no1",
     "private": true,
     "version": "1.3.0",
     "description": "Starter project for Adobe Helix",
@@ -18,14 +18,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/adobe/aem-boilerplate.git"
+      "url": "git+https://github.com/YokoKanai/eds-ue-overview202508"
     },
     "author": "Adobe",
     "license": "Apache License 2.0",
     "bugs": {
-      "url": "https://github.com/adobe/aem-boilerplate/issues"
+      "url": "https://github.com/YokoKanai/eds-ue-overview202508/issues"
     },
-    "homepage": "https://github.com/adobe/aem-boilerplate#readme",
+    "homepage": "https://author-p162967-e1749276.adobeaemcloud.com",
     "devDependencies": {
       "@babel/eslint-parser": "7.27.0",
       "eslint": "8.57.1",
