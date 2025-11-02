@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p162967-e1749276.adobeaemcloud.com/bin/franklin.delivery/YokoKanai/eds-ue-overview202508/main"
+    url: "https://drive.google.com/drive/folders/1pGDZ6j4z3cI3vNIhadD1SjrAgtjTxkPp"
     type: "markup"
     suffix: ".html"
